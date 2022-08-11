@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I'am Backend Developer
-### I really enjoy learning things related to coding and technology
+**I'am Backend Developer**
+**I really enjoy learning things related to coding and technology**
 
 
 <!-- 
