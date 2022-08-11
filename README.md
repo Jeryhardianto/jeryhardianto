@@ -4,6 +4,10 @@
 
 **I really enjoy learning things related to coding and technology**
 
+#### NOW
+
+#### BIO
+gear I use daily: PHP, Laravel, Javascript, MySQL
 
 <!-- 
 **Jeryhardianto/jeryhardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
