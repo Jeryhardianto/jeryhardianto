@@ -1,11 +1,11 @@
-### Hi there 👋
+`### Hi there 👋`
 
 **I'am Backend Developer** 
 
 **I really enjoy learning things related to coding and technology**
 
 #### NOW
-- 🌱 I’m currently learning `Laravel`, `Go-Lang,` `PostgresSQL`
+- 🌱 I’m currently learning `Laravel,` `Go-Lang,` `PostgresSQL`
  
 #### BIO
 - 🌱 I use daily: `PHP,` `Laravel,` `Javascript,` `MySQL`
