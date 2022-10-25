@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'am Backend Developer** 
+**I'am Web Developer** 
 
 **I really enjoy learning things related to coding and technology**
 
