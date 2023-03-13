@@ -5,10 +5,10 @@
 **I really enjoy learning things related to coding and technology**
 
 #### NOW
-- 🌱 I’m currently learning `Laravel,` `PostgresSQL`, `Quality Assurance Engineer`
+- 🌱 I’m currently learning `Laravel,` `PostgresSQL`
  
 #### BIO
-- 🌱 I use daily: `PHP,` `Laravel,` `Javascript,` `MySQL`, and `AWS`
+- 🌱 I use daily: `PHP,` `Laravel,` `Javascript,` `MySQL`, `PostgresSQL`, and `AWS`
 
 <!-- 
 **Jeryhardianto/jeryhardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
