@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning `Laravel,` `PostgresSQL`
  
 #### BIO
-- 🌱 I use daily: `PHP,` `Laravel,` `Javascript,` `MySQL`, `PostgresSQL`, and `AWS`
+- 🌱 I use daily: `PHP,` `Laravel,` `Javascript,` `MySQL`, `PostgresSQL`,`Database Transaction` and `AWS`
 
 <!-- 
 **Jeryhardianto/jeryhardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
