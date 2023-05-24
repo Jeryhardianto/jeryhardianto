@@ -4,9 +4,6 @@
 
 **I really enjoy learning things related to coding and technology**
 
-#### NOW
-- 🌱 I’m currently learning `Laravel,` `PostgresSQL`
- 
 #### BIO
 - 🌱 I use daily: `PHP,` `Laravel,` `Javascript,` `MySQL`, `PostgresSQL`,`Database Transaction` and `AWS`
 
