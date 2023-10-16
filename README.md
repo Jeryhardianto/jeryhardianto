@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeryhardianto" alt="jeryhardianto" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel, Javascript, MySQL, PostgresSQL,Database Transaction and AWS**
+- 🌱 Daily use **PHP, Laravel, Javascript, MySQL, PostgresSQL,Database Transaction and AWS**
 
 - 📫 How to reach me **hardiantojr29@gmail.com**
 
