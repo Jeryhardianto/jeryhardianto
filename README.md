@@ -19,10 +19,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
-<br/><br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
 
-<br/>
+
 <h3 align="left">GitHub Trophies:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeryhardianto&label=Profile%20views&color=0e75b6&style=flat" alt="jeryhardianto" /> </p>
