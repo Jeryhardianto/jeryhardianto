@@ -18,22 +18,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeryhardianto&theme=onedark&border_radius=10&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&theme=dracula&card_width=300" alt="jeryhardianto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
 <br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula&card_width=300" alt="jeryhardianto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
 
 <br/>
 <h3 align="left">GitHub Trophies:</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeryhardianto&label=Profile%20views&color=0e75b6&style=flat" alt="jeryhardianto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeryhardianto" alt="jeryhardianto" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&layout=compact" alt="jeryhardianto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en" alt="jeryhardianto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeryhardianto&" alt="jeryhardianto" /></p>
-
+<p align="left"> <a href="https://github.com/jeryhardianto/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeryhardianto&theme=onedark" alt="jeryhardianto" /></a> </p>
 
