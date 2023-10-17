@@ -15,7 +15,7 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&layout=compact" alt="jeryhardianto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en" alt="jeryhardianto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
 [![jeryhardianto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&theme=dracula&card_width=1000)]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeryhardianto&theme=onedark&border_radius=10&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
