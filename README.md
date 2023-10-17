@@ -22,7 +22,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula&card_width=350" alt="jeryhardianto" /></p>
 
-
+<br/>
 <h3 align="left">GitHub Trophies:</h3>
 
 
