@@ -14,6 +14,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeryhardianto&theme=onedark&border_radius=10&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&theme=dracula&card_width=350" alt="jeryhardianto" /></p>
 <br>
