@@ -19,7 +19,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&theme=dracula&card_width=300" alt="jeryhardianto" /></p>
-<br>
+<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula&card_width=300" alt="jeryhardianto" /></p>
 
 <br/>
