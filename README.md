@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en" alt="jeryhardianto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeryhardianto&" alt="jeryhardianto" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeryhardianto&theme=onedark&mode=weekly&card_width=511)](https://git.io/streak-stats)
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeryhardianto&label=Profile%20views&color=0e75b6&style=flat" alt="jeryhardianto" /> </p>
