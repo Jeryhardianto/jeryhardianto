@@ -28,3 +28,4 @@
 
 <p align="left"> <a href="https://github.com/jeryhardianto/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeryhardianto&theme=onedark" alt="jeryhardianto" /></a> </p>
 
+<a href="https://app.daily.dev/jeryhardianto_"><img src="https://api.daily.dev/devcards/e3f41527a1994cc1836139a29e911c66.png?r=53w" width="400" alt="Jery Hardianto's Dev Card"/></a>
