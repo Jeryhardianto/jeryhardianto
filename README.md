@@ -1,31 +1,35 @@
-<h1>Hi 👋, I'm Jery Hardianto</h1>
+![👋 Hi, my name is Jery Hardianto](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-- 🌱  I’m currently working as Web Developer
+![Profile views](https://komarev.com/ghpvc/?username=Jeryhardianto&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **hardiantojr29@gmail.com**
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Jery Hardianto
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/Jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 8px"></a></p>
+
+ **<h3 align="left">🚀 Web developer with more than 3 years of experience. Proficient in PHP, Laravel, Livewire and JavaScript (jQuery) programming languages, MySQL and PostgresSQL databases. Experienced in web development</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **Web Developer**
+- 🌱 I'm currently learning: **📚 InertiaJS, React Native, and FastAPI**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/AOS-9E9E9E?logo=aos&logoColor=white" height="32" alt="AOS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="32" alt="Google Cloud" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
 <p align="left">
-<a href="https://linkedin.com/in/jeryhardianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeryhardianto" height="30" width="40" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jeryhardianto&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Jeryhardianto&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<h3 align="left">Tech Stacks:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com//img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Github Stats:</h3>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeryhardianto&theme=onedark&border_radius=10&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
-<br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryhardianto&show_icons=true&locale=en&theme=dracula" alt="jeryhardianto" /></p>
-
-<br/>
-<h3 align="left">GitHub Trophies:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeryhardianto&label=Profile%20views&color=0e75b6&style=flat" alt="jeryhardianto" /> </p>
-
-<p align="left"> <a href="https://github.com/jeryhardianto/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeryhardianto&theme=onedark" alt="jeryhardianto" /></a> </p>
-
-<a href="https://app.daily.dev/jeryhardianto_"><img src="https://api.daily.dev/devcards/e3f41527a1994cc1836139a29e911c66.png?r=53w" width="400" alt="Jery Hardianto's Dev Card"/></a>
