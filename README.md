@@ -21,6 +21,8 @@
 
 - 💼 I'm currently working on: **Web Developer**
 - 🌱 I'm currently learning: **📚 InertiaJS, React Native, and FastAPI**
+- 📝 Blog: **<a href="jeryhardianto.tech" target="_blank">jeryhardianto.tech</a>**
+
 
  **<h3 align="left">Skills</h3>**
 
