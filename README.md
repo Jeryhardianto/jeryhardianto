@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Web Developer**
-- 🌱 I'm currently learning: **📚 InertiaJS, Flutter, and FastAPI**
+- 🌱 I'm currently learning: **📚 InertiaJS, and FastAPI**
 - 📝 Blog: **<a href="jeryhardianto.tech" target="_blank">jeryhardianto.tech</a>**
 
 
