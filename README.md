@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **Web Developer**
 - 🌱 I'm currently learning: **📚 InertiaJS, and FastAPI**
-- 📝 Blog: **<a href="[blataktech.my.id](https://blataktech.my.id/)" target="_blank">blataktech.my.id</a>**
+- 📝 Blog: **<a href="https://blataktech.my.id" target="_blank">blataktech.my.id</a>**
 
 
  **<h3 align="left">Skills</h3>**
