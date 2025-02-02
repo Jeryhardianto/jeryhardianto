@@ -14,16 +14,12 @@
 
  **<h3 align="left">🚀 Web developer with more than 3 years of experience. Proficient in PHP, Laravel, Livewire and JavaScript (jQuery) programming languages, MySQL and PostgresSQL databases. Experienced in web development</h3>**
 
- **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/Jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 8px"></a></p>
-
-
-**<h3 align="left">Rapid Fire</h3>**
-
 - 💼 I'm currently working on: **Web Developer**
-- 🌱 I'm currently learning: **📚 InertiaJS, NextJS, and FastAPI**
+- 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, and Python(FastAPI)**
 - 📝 Blog: **<a href="https://blataktech.my.id" target="_blank">blataktech.my.id</a>**
 
+ **<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/Jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 8px"></a></p>
 
  **<h3 align="left">Skills</h3>**
 
