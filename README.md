@@ -12,7 +12,7 @@
   </ul>
 </div>
 
- **<h3 align="left">🚀 Web developer with more than 3 years of experience. Proficient in PHP, Laravel, Livewire and JavaScript (jQuery) programming languages, MySQL and PostgresSQL databases. Experienced in web development</h3>**
+ **<h3 align="left">🚀 Experienced web developer specializing in web development.</h3>**
 
 - 💼 I'm currently working on: **Web Developer**
 - 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, and Python(FastAPI)**
