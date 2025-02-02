@@ -1,4 +1,4 @@
-![👋 Hi, my name is Jery Hardianto]
+
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
