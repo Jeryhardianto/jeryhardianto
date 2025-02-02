@@ -1,4 +1,4 @@
-![👋 Hi, my name is Jery Hardianto](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![👋 Hi, my name is Jery Hardianto]
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
