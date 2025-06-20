@@ -8,9 +8,6 @@
     </summary>
   </ul>
 </div>
-
- **<h3 align="left">🚀 Experienced web developer specializing in web development.</h3>**
-
 - 💼 I'm currently working on: **Software Engineer**
 - 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, and Python(FastAPI)**
 
