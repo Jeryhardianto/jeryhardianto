@@ -11,7 +11,7 @@
 
  **<h3 align="left">🚀 Experienced web developer specializing in web development.</h3>**
 
-- 💼 I'm currently working on: **Web Developer**
+- 💼 I'm currently working on: **Software Engineer**
 - 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, and Python(FastAPI)**
 
  **<h3 align="left">Connect with me:</h3>** 
