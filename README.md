@@ -8,6 +8,7 @@
     </summary>
   </ul>
 </div>
+
 - 💼 I'm currently working on: **Software Engineer**
 - 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, and Python(FastAPI)**
 
