@@ -10,7 +10,7 @@
 </div>
 
 - 💼 I'm currently working on: **Software Engineer**
-- 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, and Python(FastAPI)**
+- 🌱 I'm currently learning: **📚 Laravel(InertiaJS), NextJS, Python(FastAPI), and Golang**
 
  **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/jeryhardianto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 8px"></a></p>
