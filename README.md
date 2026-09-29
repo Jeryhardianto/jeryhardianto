@@ -2,15 +2,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeryhardianto)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeryhardianto.blataktech.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiantojr29@gmail.com)
 
 ---
 
 ## 🙋 Glad to see you here!
 
-> 💻 Full-Stack Engineer · ☁️ Cloud & DevOps · 🏥 Healthcare Systems · 📍 Yogyakarta, Indonesia
+> 💻 Full-Stack Engineer
 
-Saya membangun aplikasi web yang scalable dan mengelola deployment-nya di cloud — **4+ tahun**
+Saya membangun aplikasi web yang scalable dan mengelola deployment-nya di cloud **5+ tahun**
 menggarap sistem produksi, dari backend sampai infrastruktur.
 
 <details>
@@ -19,28 +19,26 @@ menggarap sistem produksi, dari backend sampai infrastruktur.
 <br>
 
 - 💼 Saat ini: **Software Engineer** — sistem healthcare & enterprise web
-- 🌱 Sedang dipelajari: **Golang**
-- 🏥 Membangun sistem klinik gigi yang dipakai **500+ klinik**, efisiensi rekam medis naik **40%**
-- ☁️ Menurunkan downtime **30%** lewat infrastruktur **GCP** dan monitoring **Wazuh**
-- 🎓 S1 Informatika, Universitas Respati Yogyakarta (2016–2020) · IPK 3.47
-- 🥈 Silver Medal — Innovation Technology Festival (IT Fest)
+- 🌱 Sedang dipelajari: **Rust**
 - 📄 CV: [jeryhardianto.blataktech.com](https://jeryhardianto.blataktech.com/)
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️  Tech Stack
 
 <details>
 <summary>💬 <b>Programming Languages</b></summary>
 <br>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
 
 </details>
 
@@ -64,7 +62,7 @@ menggarap sistem produksi, dari backend sampai infrastruktur.
 </details>
 
 <details>
-<summary>🗄️ <b>Database</b></summary>
+<summary>🗄️  <b>Database</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -76,13 +74,13 @@ menggarap sistem produksi, dari backend sampai infrastruktur.
 </details>
 
 <details>
-<summary>☁️ <b>DevOps, Cloud & Tooling</b></summary>
+<summary>☁️  <b>DevOps, Cloud & Tooling</b></summary>
 <br>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005C99?logo=wazuh&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005C99)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
@@ -92,10 +90,7 @@ menggarap sistem produksi, dari backend sampai infrastruktur.
 <summary>🚀 <b>Currently Exploring</b></summary>
 <br>
 
-![Go](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white)
-
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 </details>
 
 ---
@@ -110,6 +105,7 @@ menggarap sistem produksi, dari backend sampai infrastruktur.
 - **Integrasi SATUSEHAT** — pertukaran data kesehatan berbasis HL7 FHIR
 - Deployment & monitoring di GCP dengan Wazuh
 
+</details>
 </details>
 
 <details>
